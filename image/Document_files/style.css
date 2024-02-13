@@ -1,0 +1,83 @@
+.header {
+    width: 100%;
+    height: 100%;
+    background-color: #26313c;
+    padding: 0.8rem 0;
+    position: relative;
+}
+.nav-main li {
+    padding: 1.6rem;
+    letter-spacing: 1px;
+    color: #ffff;
+}
+.main-image-box img {
+    width: 100%;
+}
+.cards-main {
+    width: 90%;
+    margin: 0 auto;
+    transform: translateY(-50%);
+}
+
+.section2 {
+    position: relative;
+}
+.CARDS {
+    background-color: #26313c;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 1.2rem;
+    padding: 2rem;
+    align-items: center;
+    width: 24rem;
+    height: 18rem;
+    color: #ffff;
+}
+.card-icon {
+    height: 2.4rem;
+    width: 2.4rem;
+    color: #ffff;
+    display: block;
+}
+.card-heading {
+    font-size: 1.4rem;
+    /* color: #FFFF; */
+}
+.card-detail {
+    font-size: 1rem;
+    margin-top: 1.6rem;
+}
+.social-media {
+    position: absolute;
+    top: 20%;
+    right: 1%;
+}
+.link {
+    height: 3rem;
+    width: 3rem;
+    background-color: #ffff;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 0.25rem;
+}
+.social-media-icon {
+    height: 1.2rem;
+    width: 1.2rem;
+}
+.service-image-main {
+    width: 50%;
+}
+.service-image-main {
+    transform: translateY(-25%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.leading-kitchen {
+    max-width: 55%;
+    margin: 0 auto;
+}
